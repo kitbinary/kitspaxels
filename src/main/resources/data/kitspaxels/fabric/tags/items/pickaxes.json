@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "kitspaxels:wooden_paxel",
+    "kitspaxels:stone_paxel",
+    "kitspaxels:iron_paxel",
+    "kitspaxels:gold_paxel",
+    "kitspaxels:diamond_paxel",
+    "kitspaxels:netherite_paxel"
+  ]
+}
