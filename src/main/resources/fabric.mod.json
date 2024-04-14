@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
 	"id": "kitspaxels",
-	"version": "${version}",
+	"version": "1.0.0",
 	"name": "Kit's Paxels",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Streamline your Minecraft experience with paxels: the all-in-one tool for mining, chopping, and digging.",
 	"authors": [
 		"kitbinary"
 	],
@@ -34,8 +34,5 @@
 		"minecraft": "~1.20.4",
 		"java": ">=17",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }
