@@ -23,5 +23,8 @@
 hs_err_pid*
 replay_pid*
 
+# custom ignores
 run/
 .idea
+build
+.gradle/
